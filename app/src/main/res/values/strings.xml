@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Planner</string>
+    <string name="my_planner">My Planner</string>
+    <string name="task_name">Task name</string>
+    <string name="date_month_year">date-month-year</string>
+    <string name="switchActiv">Switch</string>
+    <string name="ActivTask">Activ Task</string>
+    <string name="update">Update</string>
+    <string name="Activ">Active</string>
+    <string name="add_task">Add Task</string>
+    <string name="view_active">View Active</string>
+    <string name="all">ALL</string>
+    <string name="active">Active</string>
+    <string name="delete">delete</string>
+    <string name="to_do">TO DO</string>
+    <string name="calendar">Calendar</string>
+
+</resources>
